@@ -1,21 +1,7 @@
-# vue-cli-transition-components
+# vue-cli-vuex-vuetify-rss
+CLI Version based on https://github.com/BinarCode/vue2-transitions by BinarCode
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+I'm learning VUE!
+-----------------
+vue create vue-cli-transition-components<br>
+npm install -D node-sass sass-loader
